@@ -1,0 +1,85 @@
+Folder PATH listing
+Volume serial number is 1E19-1CA8
+C:.
+¦   .classpath
+¦   .factorypath
+¦   .gitattributes
+¦   .gitignore
+¦   .project
+¦   HELP.md
+¦   mvnw
+¦   mvnw.cmd
+¦   pom.xml
+¦   structure.txt
+¦   
++---.mvn
+¦   +---wrapper
+¦           maven-wrapper.properties
+¦           
++---.settings
+¦       org.eclipse.core.resources.prefs
+¦       org.eclipse.jdt.apt.core.prefs
+¦       org.eclipse.jdt.core.prefs
+¦       org.eclipse.m2e.core.prefs
+¦       org.springframework.ide.eclipse.prefs
+¦       
++---src
+¦   +---main
+¦   ¦   +---java
+¦   ¦   ¦   +---com
+¦   ¦   ¦       +---srti
+¦   ¦   ¦           +---JobApp
+¦   ¦   ¦                   JobAppApplication.java
+¦   ¦   ¦                   JobController.java
+¦   ¦   ¦                   
+¦   ¦   +---resources
+¦   ¦   ¦   ¦   application.properties
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---static
+¦   ¦   ¦   +---templates
+¦   ¦   +---webapp
+¦   ¦       ¦   style.css
+¦   ¦       ¦   style1.css
+¦   ¦       ¦   
+¦   ¦       +---views
+¦   ¦               addjob.jsp
+¦   ¦               home.jsp
+¦   ¦               success.jsp
+¦   ¦               viewalljobs.jsp
+¦   ¦               
+¦   +---test
+¦       +---java
+¦           +---com
+¦               +---srti
+¦                   +---JobApp
+¦                           JobAppApplicationTests.java
+¦                           
++---target
+    +---classes
+    ¦   ¦   application.properties
+    ¦   ¦   
+    ¦   +---com
+    ¦   ¦   +---srti
+    ¦   ¦       +---JobApp
+    ¦   ¦               JobAppApplication.class
+    ¦   ¦               JobController.class
+    ¦   ¦               
+    ¦   +---META-INF
+    ¦       ¦   MANIFEST.MF
+    ¦       ¦   
+    ¦       +---maven
+    ¦           +---com.srti
+    ¦               +---JobApp
+    ¦                       pom.properties
+    ¦                       pom.xml
+    ¦                       
+    +---generated-sources
+    ¦   +---annotations
+    +---generated-test-sources
+    ¦   +---test-annotations
+    +---test-classes
+        +---com
+            +---srti
+                +---JobApp
+                        JobAppApplicationTests.class
+                        
